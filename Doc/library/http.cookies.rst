@@ -173,7 +173,7 @@ Morsel Objects
       assigning to ``key``; use :meth:`~Morsel.set` instead.
 
 
-.. method:: Morsel.set(key, value, coded_value)
+.. method:: Morsel.set(key, val, coded_val)
 
    Set the *key*, *value* and *coded_value* attributes.
 
